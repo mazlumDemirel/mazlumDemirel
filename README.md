@@ -1,6 +1,6 @@
 # Mazlum Demirel
 
-Senior Software Engineer, building software since 2010. Founder of **Steadyline Labs**: small, honest apps that do one thing well.
+Senior Software Engineer, building software since 2010. Founder of **Steadyline Labs**, a lab where ideas come to life as lean products, meet real users, and the ones that resonate grow into full products.
 
 [steadylinelabs.com](https://steadylinelabs.com) · [TetherLink Utility](https://tetherlinkutility.com/) (share your phone's mobile data with another device) · [LinkedIn](https://www.linkedin.com/in/mazlumdemirel/)
 
@@ -10,7 +10,7 @@ Senior Software Engineer, building software since 2010. Founder of **Steadyline 
 - Led several monolith-to-microservices migrations (PHP and Java monoliths), from system boundaries and domain modularization to rollout.
 - Domains: betting and iGaming, fintech and banking, airline industry platforms, quick commerce, travel, e-commerce, news.
 - Companies: Logifuture, EPAM Systems, Getir, Softtech (İş Bankası), and earlier TOKIGAMES, BundleNews, IATI, ModaCruz, CloudNesil.
-- Today I also build and ship mobile apps end to end under Steadyline Labs.
+- At Steadyline Labs I turn ideas into lean products (usually mobile first, because it is the fastest way to real users), watch how people react, and grow the ones that work into full products with their own backends.
 
 ## Tech
 
