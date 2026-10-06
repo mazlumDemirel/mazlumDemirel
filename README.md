@@ -34,7 +34,7 @@ Senior Software Engineer, building software since 2010. Founder of **Steadyline 
 
 ## Interests
 
-Motorcycles, writing, music (bağlama), travel.
+Motorcycles, writing, music (bağlama and violin), travel.
 
 ## Repos
 
