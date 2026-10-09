@@ -36,11 +36,11 @@ Senior Software Engineer, building software since 2010. Founder of **Steadyline 
 
 Motorcycles, writing, music (bağlama and violin), travel.
 
-## Repos
+## Repositories
 
-Product work lives in the Steadyline Labs organization and is private. Here you will find:
+My product work at Steadyline Labs lives in a private organization, so it doesn't show up here. What you'll find publicly:
 
-- side projects (topic `side-project`)
-- `case-*`: coding challenges from hiring processes
-- `talk-*`: code from talks (IATI, GDG Antalya)
-- `practice-*`: practice and learning projects
+- **Side projects**: small tools and experiments
+- **Take-home assignments** (`case-*`): coding challenges from hiring processes
+- **Talks** (`talk-*`): demo code from my talks, internal tech sessions and community events
+- **Practice** (`practice-*`): learning projects and katas
